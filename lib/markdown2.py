@@ -66,6 +66,8 @@ see <https://github.com/trentm/python-markdown2/wiki/Extras> for details):
   See <https://github.com/trentm/python-markdown2/issues/77> for details.
 * nofollow: Add `rel="nofollow"` to add `<a>` tags with an href. See
   <http://en.wikipedia.org/wiki/Nofollow>.
+* numbering: Number tables, equations, figures and displays and
+  and refer to them in the text.
 * pyshell: Treats unindented Python interactive shell sessions as <code>
   blocks.
 * link-patterns: Auto-link given regex patterns in text (e.g. bug number
